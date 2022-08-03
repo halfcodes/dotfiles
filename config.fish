@@ -2,11 +2,8 @@
 set fish_greeting ""
 
 # aliases
-
 alias lr "ls -rtla"
 alias vim nvim
-alias blast "rm -rf"
-
 
 # homebrew
 eval "$(/opt/homebrew/bin/brew shellenv)"
